@@ -1,8 +1,8 @@
-Agenda realizada en JAVA, con conexión a bases de datos.
+Agenda in JAVA, with data bases connection.
 
-En la aplicación realizamos conexión a una BBDD MySQL local. Podemos agregar, modificar y eliminar contactos con sentencias MySQL. En el código debe ingesar el nombre
-de la base de datos dentro de la función conectar() en la clase Agenda.java línea 115  y el usuario y contraseña de la mimsa en la línea 75 de la clase controlbd.java correspondiente también a la función conectar().
+In the application we make a connection to a local MySQL DB. We can add, modify and delete contacts with MySQL statements. In the code you must enter the name
+of the database within the connect() function in the Agenda.java class line 115 and the user and password of the same in line 75 of the controlbd.java class also corresponding to the connect() function.
 
-Además se crea un archivo access(versión 2010) con un registro para el login en el cual realizamos también una conexión y hacemos una consulta para "habilitar" la agenda.
+In addition, an access file (version 2010) is created with a record for the login in which we also make a connection and a query to "enable" the agenda.
 
-USUARIO: gestor1 CONSTRASEÑA: cctg12
+USER: gestor1 PASSWORD: cctg12
